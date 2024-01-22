@@ -4,6 +4,6 @@ Programa que visa estudar o comportamento de uma colônia de bactérias que se m
 Aplicação web simples no framework Flask com Python e integração SQL.
 
 EQUIPE:
-Edson Ney da Paixão Filho
+Amora Sofia da Paixão
 Liane Ferreira Heidemann
-Vitória Suely Pantoja Silva
+Muriel Áquila Pantoja Silva
